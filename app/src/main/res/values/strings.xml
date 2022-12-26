@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AuthorizerDemo</string>
+    <string name="authorizer_demo">Authorizer Demo</string>
+    <string name="ui_login">UI Login</string>
+</resources>
